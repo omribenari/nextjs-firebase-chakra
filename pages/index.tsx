@@ -13,13 +13,13 @@ const Home: React.FC = () => {
         bg="blue"
       >
         <Head>
-          <title>com-vote.com</title>
+          <title>Next.js + Firebase + Chakra UI</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
         <Stack spacing={3}>
-          <Heading as="h1">Welcome to com-vote.com</Heading>
-          <Text fontSize="xl">Voting system for communities</Text>
+          <Heading as="h1">Next.js + Firebase + Chakra UI</Heading>
+          <Text fontSize="xl">project template</Text>
         </Stack>
       </Flex>
       <Flex w="100%" direction="column" align="center" justify="center">
